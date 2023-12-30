@@ -1,0 +1,13 @@
+h2{
+    text-align: center;
+}
+fieldset{
+    margin: 9px;
+}
+label{
+    display: inline-block;
+    width: 180px;
+}
+.button{
+    margin: 9px;
+}
